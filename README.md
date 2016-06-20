@@ -2,4 +2,4 @@
 
 Monkey Patch für das DEKRR Raumbuchungssystem
 
-Hosted: [dekrr.space]()
+Hosted: [http://dekrr.space]()
